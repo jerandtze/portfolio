@@ -26,4 +26,6 @@ Things you may want to cover:
 To preview your app at any point:
 
 1. In the terminal, type rails s -p 4001
-2. In the browser, visit http://localhost:4001
+2. In the browser, visit http://localhost:4001  https://desolate-depths-41061.herokuapp.com/
+
+
